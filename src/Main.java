@@ -4,10 +4,8 @@ public class Main {
         int money = 20;
 
 
-        System.out.println("Количество начисленных миль"  +  amount / money );
+        System.out.println("Количество начисленных миль" + amount / money);
     }
-
-
 
 
 }
